@@ -1,5 +1,6 @@
 package com.bridgelabz.springboot.springsuit.restapi.model;
 
+//creating class and applying getter and setter
 public class User {
     private String firstName;
     private String lastName;
